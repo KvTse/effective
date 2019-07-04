@@ -5,13 +5,13 @@ package cn.kvtse.study.chapter2.builder;
  * @date 2019年5月14日00:51:55
  */
 public class NutritionFacts {
-    // 类的所有属性
+    /** 类的所有属性 属性是否为final可根据具体的业务决定 */
     private final int servingSize;
-    private final int servings;
-    private final int calories;
-    private final int fat;
-    private final int sodium;
-    private final int carbohydrate;
+    private int servings;
+    private int calories;
+    private int fat;
+    private int sodium;
+    private int carbohydrate;
 
     /**
      * 内部类  构建器
@@ -21,8 +21,8 @@ public class NutritionFacts {
 
         // 构建一个对象必须要出入的属性
 
-        private final int servingSize;
-        private final int servings;
+        private int servingSize;
+        private int servings;
 
         private int calories = 0;
         private int fat = 0;

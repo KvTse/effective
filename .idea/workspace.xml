@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a18dd5d7-991b-4499-bea1-946aa0d46160" name="Default Changelist" comment="" />
+    <list default="true" id="a18dd5d7-991b-4499-bea1-946aa0d46160" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/builder/NutritionFacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/builder/NutritionFacts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/kvtse/study/chapter2/Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/kvtse/study/chapter2/Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/kvtse/study/chapter2/builder/NutritionFacts$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/kvtse/study/chapter2/builder/NutritionFacts$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/kvtse/study/chapter2/builder/NutritionFacts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/kvtse/study/chapter2/builder/NutritionFacts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/kvtse/study/designer/creatation/builder/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/kvtse/study/designer/creatation/builder/Client.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,17 +23,17 @@
     <session id="-137784066">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
+          <entry key="project.closed" value="31" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.10" value="4" />
-          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="5" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -33,30 +42,33 @@
           <entry key="CustomClassLoader" value="1" />
           <entry key="Driver" value="1" />
           <entry key="HashMap" value="1" />
+          <entry key="abstractfactory" value="1" />
           <entry key="class" value="7" />
-          <entry key="java" value="83" />
+          <entry key="java" value="104" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="7" />
-          <entry key="JAVA" value="83" />
+          <entry key="JAVA" value="104" />
           <entry key="SPI" value="1" />
-          <entry key="UML" value="3" />
+          <entry key="UML" value="4" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="dummy" value="1" />
           <entry key="ft" value="18" />
-          <entry key="java" value="10980" />
+          <entry key="java" value="12140" />
           <entry key="xml" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10980" />
+          <entry key="JAVA" value="12140" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="VTL" value="18" />
           <entry key="XML" value="49" />
         </counts>
@@ -66,115 +78,119 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jdk_src/java/sql/DriverManager.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ProductB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13225">
-              <caret line="566" column="24" selection-start-line="566" selection-start-column="24" selection-end-line="566" selection-end-column="24" />
+            <state relative-caret-position="275">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Builder.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteProductA1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Director.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/ContreteBuilder2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="275">
+              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="39" />
               <folding>
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteProductA2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <folding>
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteProductB1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/AbstractFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteFactory1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+              <folding>
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteFactory2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+              <folding>
+                <element signature="e#235#236#0" expanded="true" />
                 <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            <state relative-caret-position="200">
+              <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/ConreteBuilder.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            <state relative-caret-position="175">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteProductB2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
               <folding>
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#392#393#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-              <folding>
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jdk_src/java/util/ServiceLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12775">
-              <caret line="550" column="39" selection-start-line="550" selection-start-column="39" selection-end-line="550" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/jdk/jvm/clazz/ClassLoaderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -206,14 +222,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/CreateAndDestroyObject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/Chapter2/CreateAndDestroyObject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/generic/GenericClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/generic/GenericMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/serviceprovider/Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/serviceprovider/Services.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/builder/NutritionFacts.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/Builder.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/CreateAndDestroyObject.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/serviceprovider/Provider.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/jdk/MyHashMap.java" />
@@ -241,7 +249,30 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/Director.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/ContreteBuilder2.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/builder/NutritionFacts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/Builder.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/Mobile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/HuaWei.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/IPhone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/MobileFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/HuaWeiFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/IPhoneFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ProdutA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteFacotry2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ProductA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ProductB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteProductA1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteProductA2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteProductB1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteProductB2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteFactory1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteFactory2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/Client.java" />
       </list>
     </option>
   </component>
@@ -274,7 +305,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -285,7 +316,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,28 +352,19 @@
             </path>
             <path>
               <item name="effective" type="b2602c69:ProjectViewProjectNode" />
-              <item name="effective" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="effective" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562208429679" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562258157078" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../wechat/jeexjj_wxmall/jeexjj-wxmall-admin/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -350,6 +372,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.kvtse.study.designer.creatation.factory.abstractfactory" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -363,13 +390,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="ClassLoaderDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kvtse.study.jdk.jvm.clazz.ClassLoaderDetail" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Builder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kvtse.study.chapter2.Builder" />
       <module name="effective" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kvtse.study.jdk.jvm.clazz.*" />
+          <option name="PATTERN" value="cn.kvtse.study.chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,12 +404,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassLoaderPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kvtse.study.jdk.jvm.clazz.ClassLoaderPath" />
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kvtse.study.designer.creatation.factory.factorymethod.Client" />
       <module name="effective" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kvtse.study.jdk.jvm.clazz.*" />
+          <option name="PATTERN" value="cn.kvtse.study.designer.creatation.factory.factorymethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,12 +430,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.kvtse.study.jdk.eight.Lambda" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.kvtse.study.designer.creatation.factory.abstractfactory.Test" />
       <module name="effective" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.kvtse.study.jdk.eight.*" />
+          <option name="PATTERN" value="cn.kvtse.study.designer.creatation.factory.abstractfactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -430,19 +457,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ClassLoaderDetail" />
-      <item itemvalue="Application.Lambda" />
-      <item itemvalue="Application.ClassLoaderPath" />
       <item itemvalue="Application.ThreadContextClassLoader" />
       <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Builder" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Builder" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.ThreadContextClassLoader" />
-        <item itemvalue="Application.ClassLoaderPath" />
-        <item itemvalue="Application.ClassLoaderDetail" />
-        <item itemvalue="Application.Lambda" />
       </list>
     </recent_temporary>
   </component>
@@ -486,18 +513,18 @@
       <workItem from="1562159586534" duration="11209000" />
       <workItem from="1562194450123" duration="2638000" />
       <workItem from="1562207910694" duration="130000" />
-      <workItem from="1562208101422" duration="328000" />
+      <workItem from="1562208101422" duration="3647000" />
+      <workItem from="1562252520442" duration="5473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71749000" />
+    <option name="totallyTimeSpent" value="80541000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20643431" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20911528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -506,7 +533,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32765958" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32765958" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -535,231 +562,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4625">
-          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/Builder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/generic/GenericClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="278" selection-start-line="278" selection-end-line="278" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="622" selection-start-line="622" selection-end-line="622" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/io/WinNTFileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="206" selection-start-line="206" selection-end-line="206" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="346" column="6" lean-forward="true" selection-start-line="346" selection-start-column="6" selection-end-line="346" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar!/sun/launcher/resources/launcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar!/sun/launcher/LauncherHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdk_src/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3374">
-          <caret line="822" column="11" selection-start-line="822" selection-start-column="11" selection-end-line="822" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/cn.kvtse.study.jdk.jvm.clazz.CustomClassLoader">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>cn.kvtse.study.jdk.jvm.clazz.CustomClassLoader</OriginalElement>
-          <nodes>
-            <node x="" y="">cn.kvtse.study.jdk.jvm.clazz.CustomClassLoader</node>
-            <node x="" y="">java.lang.ClassLoader</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="81.0" y="55.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.lang.ClassLoader">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.lang.ClassLoader</OriginalElement>
-          <nodes>
-            <node x="" y="">java.lang.ClassLoader</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="59.0" y="15.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.HashMap">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.HashMap</OriginalElement>
-          <nodes>
-            <node x="0.0" y="80.0">java.util.AbstractMap</node>
-            <node x="145.0" y="80.0">java.lang.Cloneable</node>
-            <node x="56.5" y="0.0">java.util.Map</node>
-            <node x="114.75000000000004" y="160.0">java.util.HashMap</node>
-            <node x="271.0" y="80.0">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.HashMap" target="java.util.Map">
-              <point x="-12.875000000000028" y="-15.0" />
-              <point x="153.375" y="135.0" />
-              <point x="134.5" y="135.0" />
-              <point x="134.5" y="55.0" />
-              <point x="112.0" y="55.0" />
-              <point x="18.5" y="15.0" />
-            </edge>
-            <edge source="java.util.HashMap" target="java.lang.Cloneable">
-              <point x="12.874999999999972" y="-15.0" />
-              <point x="179.125" y="135.0" />
-              <point x="198.0" y="135.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.HashMap" target="java.util.AbstractMap">
-              <point x="-38.62500000000003" y="-15.0" />
-              <point x="127.62500000000001" y="135.0" />
-              <point x="62.0" y="135.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.AbstractMap" target="java.util.Map">
-              <point x="0.0" y="-15.0" />
-              <point x="62.0" y="55.0" />
-              <point x="75.0" y="55.0" />
-              <point x="-18.5" y="15.0" />
-            </edge>
-            <edge source="java.util.HashMap" target="java.io.Serializable">
-              <point x="38.62499999999997" y="-15.0" />
-              <point x="204.875" y="135.0" />
-              <point x="327.5" y="135.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-86.0" y="124.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/jdk/MyHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/serviceprovider/Services.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdk_src/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5900">
-          <caret line="267" column="43" selection-start-line="267" selection-start-column="43" selection-end-line="267" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/jdk/eight/Lambda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdk_src/java/util/AbstractMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdk_src/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdk_src/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="183" column="18" selection-start-line="183" selection-start-column="18" selection-end-line="183" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/jdk/jvm/clazz/CustomClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -907,6 +709,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Builder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Director.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/ContreteBuilder2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/builder/NutritionFacts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/ConreteBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -921,69 +772,217 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Builder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/desiger/creatation/factory/factorymethod/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="91" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/ContreteBuilder2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/chapter2/Builder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="431">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/Mobile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/HuaWei.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
           <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/IPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/MobileFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/HuaWeiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/IPhoneFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/factorymethod/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.kvtse.study.designer.creatation.factory.abstractfactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.kvtse.study.designer.creatation.factory.abstractfactory</OriginalElement>
+          <nodes>
+            <node x="" y="">cn.kvtse.study.designer.creatation.factory.abstractfactory.ContreteFactory1</node>
+            <node x="" y="">cn.kvtse.study.designer.creatation.factory.abstractfactory.ContreteProductA2</node>
+            <node x="" y="">cn.kvtse.study.designer.creatation.factory.abstractfactory.ProductA</node>
+            <node x="" y="">cn.kvtse.study.designer.creatation.factory.abstractfactory.ContreteFactory2</node>
+            <node x="" y="">cn.kvtse.study.designer.creatation.factory.abstractfactory.ContreteProductA1</node>
+            <node x="" y="">cn.kvtse.study.designer.creatation.factory.abstractfactory.ContreteProductB2</node>
+            <node x="" y="">cn.kvtse.study.designer.creatation.factory.abstractfactory.ContreteProductB1</node>
+            <node x="" y="">cn.kvtse.study.designer.creatation.factory.abstractfactory.AbstractFactory</node>
+            <node x="" y="">cn.kvtse.study.designer.creatation.factory.abstractfactory.ProductB</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="172.0" y="243.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ProductA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ProductB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteProductA1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteProductA2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteProductB1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteProductB2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteFactory1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/ContreteFactory2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
             <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="175">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/ConreteBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-          <folding>
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Director.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/factory/abstractfactory/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/kvtse/study/designer/creatation/builder/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
         </state>
       </provider>
     </entry>
